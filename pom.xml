@@ -32,6 +32,8 @@
 
     <modules>
         <module>demo-common</module>
+        <module>demo-kafka-producer</module>
+        <module>demo-kafka-consumer</module>
     </modules>
 
     <repositories>
