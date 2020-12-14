@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: demo-kafka-producer
+  kafka:
+    bootstrap-servers: 192.168.31.10:9092
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
