@@ -34,6 +34,7 @@
         <module>demo-common</module>
         <module>demo-kafka-producer</module>
         <module>demo-kafka-consumer</module>
+        <module>demo-oauth2-authorization</module>
     </modules>
 
     <repositories>
