@@ -39,10 +39,17 @@
 
     <repositories>
         <repository>
-            <id>central</id>
+            <id>a-li-yun</id>
             <name>a-li-yun-maven</name>
             <url>https://maven.aliyun.com/repository/public</url>
         </repository>
     </repositories>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>a-li-yun</id>
+            <name>a-li-yun-maven</name>
+            <url>https://maven.aliyun.com/repository/public</url>
+        </pluginRepository>
+    </pluginRepositories>
 
 </project>
